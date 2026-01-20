@@ -17,6 +17,7 @@ avatar: "/sydhome/images/syd_photo_for_homepage.jpg"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  resume: /resume/
   dribbble:
   email:
   facebook:
