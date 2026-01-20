@@ -13,10 +13,10 @@ permalink: /resume/
 
 ## 🛠 기술 스택 (Skills)
 | 구분 | 기술 목록 | 숙련도 |
-| :---: | :--- | :---: |
-| **Languages** | HTML, CSS, JavaScript, Markdown, Python, VBA | 중상 |
-| **Frameworks** | Jekyll, Bootstrap, Django | 중 |
-| **Tools** | Git, GitHub Desktop, GitHub CLI, Visual Studio Code | 중 |
+| :--- | :--- | :---: |
+| Languages | HTML, CSS, JavaScript, Markdown, Python, VBA | 중상 |
+| Frameworks | Jekyll, Bootstrap, Django | 중 |
+| Tools | Git, GitHub Desktop, GitHub CLI, Visual Studio Code | 중 |
 
 ---
 
