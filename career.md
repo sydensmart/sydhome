@@ -82,9 +82,8 @@ permalink: /career/
 
 ---
 
-<details>
-<summary><b>▶ (주)블루버드 ~ (주)엔투비 이전 경력 보기 (클릭)</b></summary>
-
+<details markdown="1">
+<summary style="cursor:pointer;"><b>▶ (주)블루버드 ~ (주)엔투비 이전 경력 보기 (클릭)</b></summary>
 
 ### **(주)블루버드** | *국내사업그룹 그룹장/부장*  
 `2014.10 - 2015.12`  
@@ -131,9 +130,8 @@ permalink: /career/
 | E-Commerce 솔루션 개발 | 2021.03 - 2021.07 | PMO | ㈜플래티어 |  
 | 전자계약구매시스템 구축 제안 | 2021.01 - 2021.02 | 제안 PM | 우아한형제들 |  
 
-<details>
-<summary><b>▶ 과거 전체 프로젝트 이력(25건+) 리스트 보기 (클릭)</b></summary>
-
+<details markdown="1">
+<summary style="cursor:pointer;"><b>▶ 과거 전체 프로젝트 이력(25건+) 리스트 보기 (클릭)</b></summary>
 
 | **프로젝트 명** | **참여기간** | **역할** | **발주처** |  
 | :--- | :---: | :---: | :--- |  
