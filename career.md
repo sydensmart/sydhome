@@ -6,7 +6,8 @@ permalink: /career/
 ---
 
 # [서 영 득]
-> **미래 가치 창출을 위한 AX/DX 비즈니스 아키텍터** > 📧 이메일: sydensmart@gmail.com  
+> **미래 가치 창출을 위한 AX/DX 비즈니스 아키텍터**
+> 📧 이메일: sydensmart@gmail.com  
 > 🔗 GitHub: [github.com/sydensmart](https://github.com/sydensmart)
 
 ---
