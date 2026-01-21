@@ -1,0 +1,17 @@
+# _data/discovery_categories.yml
+
+- id: "AX/DX Strategy"
+  name: "AX/DX Strategy"
+  description: "AI 전환 및 디지털 혁신 전략"
+
+- id: "SCM & Procurement"
+  name: "SCM & Procurement"
+  description: "구매 혁신 및 공급망 관리 관련 전문 지식"
+
+- id: "B2B Biz"
+  name: "Insight B2B Biz"
+  description: "기술 영업, 제안 전략, 사업 기획 노하우"
+
+- id: "Tech Discovery"
+  name: "Tech Discovery"
+  description: "Jekyll, Python, 클라우드 등 신기술 학습 기록"
