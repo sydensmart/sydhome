@@ -64,9 +64,7 @@ kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  # 아래 옵션을 추가하여 HTML 내부 마크다운 해석을 허용합니다.
-  parse_block_html: true
+  syntax_highlighter: rouge  
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
