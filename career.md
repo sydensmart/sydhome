@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Resume"
+title: "Career"
 description: "저의 경력과 기술 스택을 소개합니다."
-permalink: /resume/
+permalink: /career/
 ---
 
 # [서 영 득]
