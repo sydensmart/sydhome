@@ -85,3 +85,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  discovery:
+    output: true
+    permalink: /discovery/:name/
+
