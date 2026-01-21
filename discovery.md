@@ -4,7 +4,7 @@ title: Discovery
 permalink: /discovery/
 ---
 
-## 학습 기록 목록
+## List of Study History
 
 <ul>
   {% for item in site.discovery %}
