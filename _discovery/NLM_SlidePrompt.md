@@ -95,7 +95,7 @@ AI 이미지 생성 도구(Midjourney, DALL-E, Adobe Firefly 등)에 그대로 �
 
 - **설명:** 강렬한 검정 테두리와 원색을 사용해 힙한 느낌을 줍니다.
 - **프롬프트:** "노트북LM을 위한 인포그래픽, 네오 브루탈리즘 스타일, 굵은 검정 외곽선, 고대비 원색 사용, 볼드한 타이포그래피, 떠다니는 문서와 AI 아이콘, 현대적이고 파격적인 테크 디자인, 하얀 배경."
-- **영문:** `Infographic for "NotebookLM", Neo-brutalism style, bold black outlines, high contrast vibrant colors, thick typography, floating document icons and AI symbols, edgy and modern tech aesthetic, white background.`
+- **영문:** Infographic for "NotebookLM", Neo-brutalism style, bold black outlines, high contrast vibrant colors, thick typography, floating document icons and AI symbols, edgy and modern tech aesthetic, white background.
 
 ### 2. 클린 화이트 미니멀리즘 (Minimalism)
 
