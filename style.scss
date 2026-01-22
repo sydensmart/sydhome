@@ -306,3 +306,97 @@ header .container {
   max-width: 1100px !important;
 }
 
+/* 1. 전체 폰트 및 배경 설정 */
+body {
+  font-family: "Pretendard Variable", "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  color: #333;
+  line-height: 1.7;
+  background-color: #fcfcfc;
+}
+
+/* 2. 헤더 디자인 (신뢰감을 주는 네이비 포인트) */
+.site-header {
+  border-top: 5px solid #002c5f; /* 현대적인 딥 네이비 포인트 */
+  background: white;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  padding: 20px 0;
+}
+
+.site-title {
+  font-weight: 800;
+  letter-spacing: -1px;
+  color: #002c5f !important;
+}
+
+/* 3. 본문 영역 최적화 (가독성 향상) */
+.container {
+  max-width: 1050px !important; /* 분석 결과 가장 안정적인 비즈니스 레이아웃 폭 */
+}
+
+h1, h2, h3 {
+  color: #1a1a1a;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+h2 {
+  border-bottom: 2px solid #002c5f;
+  padding-bottom: 8px;
+  display: inline-block;
+}
+
+/* 4. HTML/Markdown 테이블 세련되게 다듬기 */
+table {
+  width: 100% !important;
+  border-collapse: collapse;
+  margin: 30px 0;
+  font-size: 0.95em;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+}
+
+th {
+  background-color: #002c5f;
+  color: white;
+  font-weight: 600;
+  padding: 15px;
+  text-align: left;
+}
+
+td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #eee;
+}
+
+tr:nth-of-type(even) {
+  background-color: #f8f9fa; /* 줄무늬 효과로 가독성 향상 */
+}
+
+tr:hover {
+  background-color: #f1f4f8; /* 마우스 오버 시 하이라이트 */
+}
+
+/* 5. 인용구(Blockquote) 디자인 개선 */
+blockquote {
+  border-left: 5px solid #002c5f;
+  background: #f0f4f8;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 0 8px 8px 0;
+  font-style: normal;
+  color: #444;
+}
+
+/* 6. 버튼 및 링크 스타일 */
+a {
+  color: #0056b3;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #002c5f;
+  text-decoration: underline;
+}
