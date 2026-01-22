@@ -14,11 +14,20 @@ permalink: /career/
 
 ## 🛠 기술 스택 (Technology Stack)
 
-| 구분 | 기술 목록 | 숙련도 |
-| :--- | :--- | :---: |
-| **Languages** | HTML, CSS, JavaScript, Markdown, Python, VBA | 중상 |
-| **Frameworks** | Jekyll, Bootstrap, Django | 중 |
-| **Tools** | Git, GitHub Desktop, GitHub CLI, Visual Studio Code | 중 |
+<table style="width:100%; border-collapse: collapse; margin: 20px 0;">
+  <thead>
+    <tr style="border-bottom: 2px solid #eee; text-align: left;">
+      <th>구분</th>
+      <th>기술 목록</th>
+      <th>숙련도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><b>Languages</b></td><td>HTML, CSS, JavaScript, Markdown, Python, VBA</td><td>중상</td></tr>
+    <tr><td><b>Frameworks</b></td><td>Jekyll, Bootstrap, Django</td><td>중</td></tr>
+    <tr><td><b>Tools</b></td><td>Git, GitHub Desktop, GitHub CLI, Visual Studio Code</td><td>중</td></tr>
+  </tbody>
+</table>
 
 ---
 
