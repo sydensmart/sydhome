@@ -101,59 +101,59 @@ AI 이미지 생성 도구(Midjourney, DALL-E, Adobe Firefly 등)에 그대로 �
 
 - **설명:** 여백의 미를 강조한 애플(Apple) 스타일의 깔끔함.
 - **프롬프트:** "노트북LM AI 서비스, 미니멀리즘 스타일, 깨끗한 화이트 에스테틱, 가느다란 회색 선, 넓은 여백, 부드러운 블루 포인트 컬러, 단순한 벡터 아이콘, 우아하고 전문적인 디자인."
-- **영문:** `Minimalist infographic for NotebookLM AI service, Apple-style clean aesthetics, thin grey lines, vast negative space, soft blue accents, simple vector icons, elegant and professional.`
+- **영문:** Minimalist infographic for NotebookLM AI service, Apple-style clean aesthetics, thin grey lines, vast negative space, soft blue accents, simple vector icons, elegant and professional.
 
 ### 3. 글래스모피즘 (Glassmorphism)
 
 - **설명:** 반투명 유리창이 겹쳐진 듯한 입체적이고 세련된 디자인.
 - **프롬프트:** "미래형 UI 인포그래픽, 글래스모피즘 스타일, 반투명한 유리 카드, 배경 흐림 효과(Blur), 은은한 파스텔톤 그라데이션, 떠다니는 3D 문서 및 뇌 연결 아이콘, 고급 소프트웨어 디자인."
-- **영문:** `Futuristic UI infographic, Glassmorphism style, semi-transparent frosted glass cards, soft background blur, glowing pastel gradients, 3D floating digital file icons, high-end software look.`
+- **영문:** Futuristic UI infographic, Glassmorphism style, semi-transparent frosted glass cards, soft background blur, glowing pastel gradients, 3D floating digital file icons, high-end software look.
 
 ### 4. 벤트 그리드 (Bento Grid)
 
 - **설명:** 도시락 통처럼 칸을 나누어 정보를 일목요연하게 정리한 스타일.
 - **프롬프트:** "벤트 그리드 레이아웃 인포그래픽, 정리된 사각형 섹션들, 각 칸마다 깔끔한 UI 요소, 요약 아이콘, 출처 인용 아이콘, 오디오 가이드 아이콘 포함, 현대적인 웹 디자인 트렌드."
-- **영문:** `Bento grid layout infographic for NotebookLM, organized rectangular sections, clean UI elements in each box, summary icon, source citation icon, audio guide icon, modern web design trend.`
+- **영문:** Bento grid layout infographic for NotebookLM, organized rectangular sections, clean UI elements in each box, summary icon, source citation icon, audio guide icon, modern web design trend.
 
 ### 5. 클레이모피즘 (Claymorphism)
 
 - **설명:** 찰흙처럼 말랑말랑하고 귀여운 3D 캐릭터 스타일.
 - **프롬프트:** "클레이모피즘 인포그래픽, 부드러운 3D 플라스틱 질감, 둥글둥글한 모양, 친근한 파스텔 컬러, 거대한 노트북과 상호작용하는 3D 캐릭터들, 친숙한 AI 기술 컨셉."
-- **영문:** `Claymorphism style infographic, cute 3D soft plastic textures, rounded inflated shapes, friendly pastel colors, 3D characters interacting with a giant notebook, playful and accessible AI technology.`
+- **영문:** Claymorphism style infographic, cute 3D soft plastic textures, rounded inflated shapes, friendly pastel colors, 3D characters interacting with a giant notebook, playful and accessible AI technology.
 
 ### 6. 다크 모드 하이테크 (Dark Tech)
 
 - **설명:** 어두운 배경에 네온 빛이 감도는 전문가적 느낌.
 - **프롬프트:** "다크 모드 테크 인포그래픽, 깊은 차콜색 배경, 네온 사이언 및 보라색 빛나는 선들, 데이터 시각화, 미래형 HUD 요소, 정교한 AI 신경망 아이콘, 하이테크 분위기."
-- **영문:** `Dark mode tech infographic, deep charcoal background, neon cyan and violet glowing lines, data stream visualizations, futuristic HUD elements, sophisticated AI neural network icons.`
+- **영문:** Dark mode tech infographic, deep charcoal background, neon cyan and violet glowing lines, data stream visualizations, futuristic HUD elements, sophisticated AI neural network icons.
 
 ### 7. 그라디언트 메시 (Gradient Mesh)
 
 - **설명:** 색감이 몽환적으로 섞이는 창의적 배경 스타일.
 - **프롬프트:** "화려한 메시 그라디언트 배경 인포그래픽, 유기적으로 흐르는 모양, 파란색과 보라색의 부드러운 전환, 미니멀한 흰색 텍스트, 아이디어와 정보의 흐름을 추상적으로 표현."
-- **영문:** `Infographic with vibrant mesh gradient background, organic flowing shapes, soft transitions of blue and purple, minimalist white text, abstract representation of flowing ideas and information.`
+- **영문:** Infographic with vibrant mesh gradient background, organic flowing shapes, soft transitions of blue and purple, minimalist white text, abstract representation of flowing ideas and information.
 
 ### 8. 핸드 드로잉 스케치 (Hand-Drawn)
 
 - **설명:** 종이 위에 펜으로 직접 그린 듯한 인간적인 디자인.
 - **프롬프트:** "창의적인 브레인스토밍 인포그래픽, 핸드 드로잉 스케치 스타일, 낙서 스타일의 화살표와 전구 아이콘, 인간적인 터치, 유기적이고 생동감 넘치는 구성, 종이 질감 배경."
-- **영문:** `Creative brainstorming infographic, hand-drawn sketch style, scribbled arrows, doodle icons of lightbulbs and papers, human touch, organic and lively, paper texture background.`
+- **영문:** Creative brainstorming infographic, hand-drawn sketch style, scribbled arrows, doodle icons of lightbulbs and papers, human touch, organic and lively, paper texture background.
 
 ### 9. 데이터 시각화 노드 (Node-Link)
 
 - **설명:** 지식의 연결망을 선과 점으로 표현한 논리적 스타일.
 - **프롬프트:** "복잡한 지식 그래프 인포그래픽, 데이터 포인트를 연결하는 노드와 선들, '점들을 연결하다'는 컨셉, 전문적인 데이터 과학 시각화, 블루와 실버 컬러 조합."
-- **영문:** `Complex knowledge graph infographic, interconnected nodes and lines, "connecting the dots" concept, professional data science visualization, blue and silver color palette.`
+- **영문:** Complex knowledge graph infographic, interconnected nodes and lines, "connecting the dots" concept, professional data science visualization, blue and silver color palette.
 
 ### 10. 레트로 모던 (Retro Modern)
 
 - **설명:** 옛날 컴퓨터 감성과 현대적 감각의 결합.
 - **프롬프트:** "레트로 모던 80년대 테크 스타일 인포그래픽, 노이즈 질감, 빈티지한 뮤트 컬러, 기하학적 도형들, 옛날 컴퓨터 에스테틱과 현대적 AI의 만남, 독특한 브랜딩."
-- **영문:** `Retro-modern 80s tech infographic, grainy texture, vintage muted colors, geometric shapes, old computer aesthetic meets modern AI, unique and nostalgic.`
+- **영문:** Retro-modern 80s tech infographic, grainy texture, vintage muted colors, geometric shapes, old computer aesthetic meets modern AI, unique and nostalgic.
 
 ### 11. 토스 스타일 (Toss Style)
 
 - **설명:** 화이트 배경에 파란색 포인트, 매끈한 3D 아이콘이 특징인 극도의 간결함.
 - **프롬프트:** "토스 스타일의 깔끔한 인포그래픽, 상징적인 3D 유광 아이콘, 순백색 배경에 선명한 토스 블루 포인트, 극도로 단순하고 친근한 레이아웃, 카드 아래 부드러운 그림자, 프리미엄 앱 UI 느낌."
-- **영문:** `Toss-style clean infographic, iconic 3D glossy icons, vivid "Toss Blue" accents on pure white background, extremely simple and friendly layout, soft shadows under cards, premium mobile app UI aesthetic.`
+- **영문:** Toss-style clean infographic, iconic 3D glossy icons, vivid "Toss Blue" accents on pure white background, extremely simple and friendly layout, soft shadows under cards, premium mobile app UI aesthetic.
 
