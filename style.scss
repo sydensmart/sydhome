@@ -287,3 +287,21 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+/* Jekyll-now 전체 레이아웃 폭 확대 */
+.container {
+  max-width: 1100px !important; /* 기존 750px 내외에서 1100px로 확대 */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* 포스트 내부 텍스트 영역 확장 */
+.posts > .post, .post > .entry {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* 헤더 부분 너비 맞춤 */
+header .container {
+  max-width: 1100px !important;
+}
