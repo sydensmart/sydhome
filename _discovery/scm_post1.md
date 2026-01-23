@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "2026 SCM & Procurement AI 혁신 준비 현황 보고"
+title: "[2026 SCM & Procurement AI 혁신 준비 현황 보고]"
 date: 2026-01-23
 category: "SCM & Procurement"
 excerpt: "공급망 관리와 조달 시스템이 '반응형'에서 '자율 실행형' 엔진으로 진화하는 구체적 로드맵 분석"
 image: /sydhome/images/scm_post1.png
 ---
-
-# [2026 SCM & Procurement AI 혁신 준비 현황 보고]
 
 2026년 기업들은 파편화된 파일럿 프로젝트를 종료하고, AI를 공급망 전체의 **'연결된 가치 엔진(Connected Value Engine)'**으로 통합하려 하고 있습니다. 실시간 가시성 확보는 이제 기본 사양이며, 데이터를 바탕으로 에이전트가 스스로 의사결정을 내리고 실행하는 **'데이터 활성화(Data Activation)'** 단계로 진입했습니다.
 
@@ -59,3 +57,5 @@ image: /sydhome/images/scm_post1.png
 
 **전략 기획자님을 위한 다음 단계:**
 본 보고서에 포함된 각 영역의 우선순위를 설정하고, 현재 보유하신 데이터 자산의 **'AI 가독성(AI-Readiness)'**을 점검하는 워크숍이 권장됩니다.
+
+![Winter Sea]({{ site.baseurl }}/images/scm_post1.png)
