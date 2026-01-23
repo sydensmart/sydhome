@@ -5,7 +5,8 @@ permalink: /discovery/
 ---
 
 ## List of Study History
-이곳은 디지털 혁신과 비즈니스 전략, 그리고 기술적 발견을 기록하는 공간입니다.
+이곳은 디지털 혁신과 비즈니스 전략, 그리고 기술적 발견을 기록하는 공간입니다.  
+2026년 AI 비즈니스 생태계의 근본적인 변화를 분석하고 기업이 취해야 할 전략적 포지션을 제안합니다.
 
 {% for category in site.data.discovery_categories %}
   <div class="category-section" style="margin-bottom: 30px;">
