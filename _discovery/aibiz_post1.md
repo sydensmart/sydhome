@@ -3,7 +3,12 @@ layout: post
 title: "2026 AI 전환 비즈니스 모델 분석"
 date: 2026-01-21
 category: "AX/DX Strategy"  # yml 파일의 id와 정확히 일치해야 합니다.
+excerpt: "AI 비즈니스의 패러다임이 'Assist'에서 'Act'로 이동함에 따른 에이전틱 워크플로우와 GEO 전략 분석"
+image: /images/aibiz_img1.png # <--- 이 부분을 추가합니다.
 ---
+# [2026 AI 전환 비즈니스 모델 분석 보고서]
+... (나머지 본문 내용)
+
 
 
 # [2026 AI 전환 비즈니스 모델 분석 보고서]
