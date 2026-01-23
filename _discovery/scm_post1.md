@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[2026 SCM & Procurement AI 혁신 준비 현황 보고]"
+title: "[2026 SCM & Procurement AI 혁신 방향]"
 date: 2026-01-23
 category: "SCM & Procurement"
 excerpt: "공급망 관리와 조달 시스템이 '반응형'에서 '자율 실행형' 엔진으로 진화하는 구체적 로드맵 분석"
