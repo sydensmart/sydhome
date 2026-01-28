@@ -18,9 +18,7 @@ excerpt: ""
 ### 📂 문서 확인 및 다운로드
 아래 링크를 클릭하여 상세 보고서를 확인하실 수 있습니다.
 
-* <a href="{{ '/assets/pdf/Big_Science_Quantum_Jump_20260126.pdf' | relative_url }}" target="_blank" style="font-weight: bold; font-size: 1.1em; color: #2c3e50; text-decoration: underline;">
-   📄 (주)모비스 2026 전략 리포트 전체 보기 (새 탭에서 열기)
-</a>
+* [다운로드]({{ site.baseurl }}/assets/pdf/Big_Science_Quantum_Jump_20260126.pdf)
 
 ---
 
