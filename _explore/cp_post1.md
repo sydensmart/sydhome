@@ -26,12 +26,3 @@ excerpt: ""
 1. **핵융합 제어**: 극한의 환경에서 마이크로초(µs) 단위 동기화 제어 기술 구현
 2. **초정밀 가속기**: 포항가속기연구소(PAL), 중이온 가속기(RAON), 중입자 치료기 제어 시스템 구축
 
----
-
-### 🔍 리포트 미리보기
-<div style="text-align: center; margin-top: 20px;">
-    <iframe src="{{ site.baseurl }}/assets/pdf/Big_Science_Quantum_Jump_20260126.pdf" width="100%" height="800px" style="border: 1px solid #ddd;">
-        이 브라우저는 PDF 미리보기를 지원하지 않습니다. 
-        <a href="{{ site.baseurl }}/assets/pdf/Big_Science_Quantum_Jump_20260126.pdf">파일 다운로드</a>를 클릭해 주세요.
-    </iframe>
-</div>
