@@ -1,6 +1,6 @@
 ---
 layout: page
-title: explore
+title: Explore
 permalink: /explore/
 ---
 
