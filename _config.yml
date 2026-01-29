@@ -90,8 +90,6 @@ collections:
   discovery:
     output: true
     permalink: /discovery/:name/
-
-collections:
   explore:
     output: true
     permalink: /explore/:name/
