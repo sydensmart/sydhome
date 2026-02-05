@@ -26,6 +26,8 @@ excerpt: ""
 
 온톨로지는 조직의 구조와 행동을 정의하기 위해 세 가지 계층으로 나뉩니다.
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/ea1be7a7-95de-498f-bcc0-90e9ca1161e2" />
+
 ### ① 의미 계층 (Semantic Layer)
 * **언어학적 비유:** 명사 (Nouns)
 * **핵심 역할:** 현실의 사물(객체)과 그들 사이의 관계를 정의합니다. (예: 설비, 직원, 주문 등 비즈니스 실체 구조화)
